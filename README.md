@@ -42,14 +42,12 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Julianfmv&hide_border=true&layout=compact" align="left" />  
 
-<br/>  
-
-
-## Connect with me  
+## Connect with me 
+<div align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/julian-martinez-vazquez-/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
+</div>
 
-<br />
 
 ----
