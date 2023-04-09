@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="" width="600" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" height="300" width="500" />
 </div>  
   
 
@@ -51,7 +51,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Julianfmv&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
 <br />
 
 ----
