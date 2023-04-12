@@ -3,7 +3,7 @@
 </div>  
   
 # 💫 About Me:
-🧑‍💻 I'm Julian! a Full-Stack Web Developer<br>🌱 Currently working on: Building a web app for a local music production studio <br>📚 Currently learning: Next JS, GraphQL, Redis, ThreeJS <br>🎉 Fun fact: I love travelling and making music in my free time 🎸 🎹 
+🧑‍💻 I'm Julian! a Full-Stack Web Developer<br>🌱 Currently working on: Building a web app for a music production studio <br>📚 Currently learning: Next JS, GraphQL, Redis, ThreeJS <br>🎉 Fun fact: I love travelling and making music in my free time 🎸 🎹 
 
 
 ## 🌐 Contact me!
